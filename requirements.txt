@@ -1,0 +1,9 @@
+keyboard==0.13.5
+mouse==0.7.1
+pynput==1.7.6
+ttkthemes==3.2.2
+customtkinter==5.2.2
+pystray==0.19.5
+Pillow==11.1.0
+pywin32==308
+pyinstaller==6.12.0 

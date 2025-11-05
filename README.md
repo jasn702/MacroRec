@@ -22,14 +22,14 @@ A powerful and user-friendly macro recording and playback application for Window
 - Python 3.8 or later (for development)
 
 ### Download
-1. Go to the [Releases](https://github.com/jasn702/macro-recorder/releases) page
+1. Go to the [Releases](https://github.com/jasn702/MacroRec/releases) page
 2. Download the latest `Macro Recorder.exe`
 3. Run the executable - no installation required
 
 ### Development Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jasn702/macro-recorder.git
+   git clone https://github.com/jasn702/MacroRec.git
    cd macro-recorder
    ```
 
@@ -105,3 +105,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [pynput](https://github.com/moses-palmer/pynput) for input device control
 
 - [ttkthemes](https://github.com/RedFantom/ttkthemes) for modern GUI themes 
+
